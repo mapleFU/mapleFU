@@ -1,16 +1,13 @@
-### Hi there 👋
+```python
+>>> import mwish
+"Hi, I'm mwish! Glad to meet you!"
+>>> mwish.name
+{'mwish', 'mapleFU'}
+>>> mwish.interests
+['anime', 'literature', 'sociology', 'science-fiction']
+>>> mwish.learning
+['database systems', 'operating systems', 'distributed systems', 'linear algebra', 'C++', 'Golang']
+>>> mwish.motto
+("So high, so low, so many things to know.", "Work healthily 50 years for ACGN.")
+```
 
-<!--
-**mapleFU/mapleFU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
