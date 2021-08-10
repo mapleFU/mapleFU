@@ -9,5 +9,7 @@
 ['database systems', 'operating systems', 'distributed systems', 'linear algebra', 'C++', 'Golang']
 >>> mwish.motto
 ("So high, so low, so many things to know.", "Work healthily 50 years for ACGN.")
+>>> mwish.blog
+{"www.zhihu.com/people/maplewish/posts"}
 ```
 
