@@ -9,5 +9,7 @@
 ['Database Systems', 'Operating Systems', 'Distributed Systems', 'Computer Architecture']
 >>> mwish.motto
 ("So high, so low, so many things to know.", "Work healthily 50 years for ACGN.")
+>>> mwish.blog
+"https://blog.mwish.me/"
 ```
 
