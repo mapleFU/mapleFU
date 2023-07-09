@@ -11,5 +11,8 @@
 ("So high, so low, so many things to know.", "Work healthily 50 years for ACGN.")
 >>> mwish.blog
 "https://blog.mwish.me/"
+>> mwish.timezone
+"UTC+8"
+>> mwish.available_time = lambda day: "8-11PM" if day != "Sunday" else "None"
 ```
 
